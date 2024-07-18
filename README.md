@@ -8,7 +8,7 @@ Links to guides for various things related to PS4 exploits
 # 6. [How to manually update PS4 firmware](https://github.com/DrYenyen/PS4-Firware-Update-Guide)       
 # 7. [How-To-Use-Cheats-and-Patches-On-PS4](https://github.com/DrYenyen/How-To-Use-Goldhen-Cheats-and-Patches-On-PS4)           
 # 8. How to region change Games, Updates and DLC (WIP)       
-# 9. How to Fake activate account for Chiaki(WIP)          
+# 9. How to Fake activate account for Chiaki Remote Play (WIP)          
 # 10. How to use Apollo Save Tool AIO (WIP)             
 # 11. How to install Updates and DLC on Retail Games (WIP)             
 # 12. How to install Updates and DLC on Dumped FPKG Games  (WIP)     
