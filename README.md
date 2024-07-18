@@ -11,5 +11,4 @@ Links to guides for various things related to PS4 exploits
 # 9. How to Fake activate account for Chiaki Remote Play (WIP)          
 # 10. How to use Apollo Save Tool AIO (WIP)             
 # 11. How to install Updates and DLC on Retail Games (WIP)             
-# 12. How to install Updates and DLC on Dumped FPKG Games  (WIP)     
-# 12.       
+# 12. How to install Updates and DLC on Dumped FPKG Games  (WIP)        
