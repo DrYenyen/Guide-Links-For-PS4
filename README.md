@@ -1,5 +1,5 @@
 # Guide-Links-For-PS4
-Links to guides for various things related to PS4 exploits     
+Links to guides for various things related to PS4 exploits and Homebrew  
 # 1. Start here> an explanation about Goldhen, exploit compatability, PS4 downgrade conditions and other useful begginer information (WIP)   
 # 2. [How to manually update PS4 firmware](https://github.com/DrYenyen/PS4-Firware-Update-Guide)          
 # 3. [How to use a GUI tool to run PPPwn on Windows](https://github.com/DrYenyen/PPPwnGo-Guide)           
