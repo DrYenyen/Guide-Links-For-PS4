@@ -10,7 +10,7 @@ Links to guides for various things related to PS4 exploits and Homebrew
 # 7. How to use a Web browser exploit host to jailbreak on 5.05/6.72//7.02/7.50/7.55 (WIP)         
 # 8. [How-To-Use-Cheats-and-Patches-On-PS4(important before downloading game dumps)](https://github.com/DrYenyen/How-To-Use-Goldhen-Cheats-and-Patches-On-PS4)               
 # 9. [How to install FPKGS](https://github.com/DrYenyen/How-To-Install-PS4-FPKGS)              
-# 10. How to install Updates and DLC on Retail Games (WIP)               
+# 10. [How to install Updates and DLC on Retail Games](https://github.com/DrYenyen/How-to-install-Updates-and-DLC-on-Retail-Games)                
 # 11. How to install Updates and DLC on Dumped FPKG Games  (WIP)       
 # 12. How to region change Games, Updates and DLC (WIP)            
 # 13. How to Fake activate account for Chiaki Remote Play (WIP)              
