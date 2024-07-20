@@ -12,7 +12,7 @@ Links to guides for various things related to PS4 exploits and Homebrew
 # 9. [How-To-Use-Cheats-and-Patches-On-PS4(important before downloading game dumps)](https://github.com/DrYenyen/How-To-Use-Goldhen-Cheats-and-Patches-On-PS4)               
 # 10. [How to install PKGS and FPKGS](https://github.com/DrYenyen/How-To-Install-PS4-FPKGS)              
 # 11. [How to install Updates and DLC on Retail Games](https://github.com/DrYenyen/How-to-install-Updates-and-DLC-on-Retail-Games)                
-# 12. [How to install FPKG Games, Updates and DLC](https://github.com/DrYenyen/-How-to-install-FPKG-Games-Updates-and-DLC-)  
+# 12. [How to install FPKG Games, Updates and DLC](https://github.com/DrYenyen/How-to-install-FPKG-Games-Updates-and-DLC)  
 # 13. [How to region change,remarry or merge Games, Updates and DLC](https://github.com/DrYenyen/How-to-region-change-remarry-or-merge-Games-Updates-and-DLC)           
 # 14. How to Fake activate account for Chiaki Remote Play (WIP)              
 # 15. How to use Apollo Save Tool AIO (WIP)                    
