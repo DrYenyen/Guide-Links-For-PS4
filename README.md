@@ -14,6 +14,6 @@ Links to guides for various things related to PS4 exploits and Homebrew
 # 11. [How to install PKGS and FPKGS](https://github.com/DrYenyen/How-To-Install-PS4-FPKGS)              
 # 12. [How to install Updates and DLC on Retail Games](https://github.com/DrYenyen/How-to-install-Updates-and-DLC-on-Retail-Games)                
 # 13. [How to install FPKG Games, Updates and DLC](https://github.com/DrYenyen/How-to-install-FPKG-Games-Updates-and-DLC)  
-# 14. [How to region change,remarry or merge Games, Updates and DLC](https://github.com/DrYenyen/How-to-region-change-remarry-or-merge-Games-Updates-and-DLC)                    
-# 15. How to use Apollo Save Tool AIO + Fake account for Chaiki (WIP)                    
+# 14. [How to region change,remarry or merge Games, Updates and DLC(Partially done)](https://github.com/DrYenyen/How-to-region-change-remarry-or-merge-Games-Updates-and-DLC)                    
+# 15. [How to use Apollo Save Tool AIO + Fake account for Chaiki(Partially done)](https://github.com/DrYenyen/-How-to-use-Apollo-Save-Tool-AIO-and-Fake-account-for-Chaiki-)                   
    
