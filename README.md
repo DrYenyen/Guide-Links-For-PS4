@@ -3,7 +3,7 @@ Links to guides for various things related to PS4 exploits and Homebrew
 # Start here>    
 # 1. [An introduction to Exploits Goldhen PS4 Downgrade PS4 Homebrew for beginners](https://github.com/DrYenyen/An-introduction-to-Exploits-Goldhen-and-PS4-Homebrew-for-beginners?tab=readme-ov-file)  
 # 2. [How to manually update or reinstall PS4 firmware](https://github.com/DrYenyen/PS4-Firware-Update-Guide)     
-# 3. [How to use PPPwn Tinker GUI tool with customizable values for better success rates with PPPwn](https://github.com/DrYenyen/PPPwn-Tinker-GUI)             
+# 3. [How to use PPPwn Tinker GUI tool with customizable values for better success rates in PPPwn](https://github.com/DrYenyen/PPPwn-Tinker-GUI)             
 # 4. [How to use a PPPwnGo GUI tool to run the PPPwn exploit on Windows](https://github.com/DrYenyen/PPPwnGo-Guide)           
 # 5. [How to set up PPPwn exploit on Raspberry-Pi(auto jailbreak)](https://github.com/DrYenyen/PPPwn-Setup-Guide-For-Raspberry-Pi)            
 # 6. [How to set up PPPwn expliot on a Luckfox pico(by 0x1iii1ii)(auto jailbreak)](https://github.com/0x1iii1ii/PPPwn-Luckfox)
