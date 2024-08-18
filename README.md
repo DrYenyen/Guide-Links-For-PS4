@@ -8,7 +8,7 @@ Links to guides for various things related to PS4 exploits and Homebrew
 # 5. [How to set up PPPwn exploit on Raspberry-Pi(auto jailbreak)](https://github.com/DrYenyen/PPPwn-Setup-Guide-For-Raspberry-Pi)            
 # 6. [How to set up PPPwn expliot on a Luckfox pico(by 0x1iii1ii)(auto jailbreak)](https://github.com/0x1iii1ii/PPPwn-Luckfox)
 # 7. [How to set up PPPwn exploit on a OpenWRT compatible router(by FalsePhilosopher)(auto jailbreak)](https://github.com/FalsePhilosopher/PPPwnWRT)    
-# 8. How to use a Web browser exploit host to jailbreak on 5.05/6.72//7.02/7.50/7.55 (WIP)     
+# 8. [Mac M chip alternative Java PPPwn method](https://github.com/JoshKO007/PPPwn_MacBook_ARM64)      
 # 9. How to jailbreak on 9.00 using pOObs exploit. (WIP)    
 # 10. [How-To-Use-Cheats-and-Patches-On-PS4(important before downloading game dumps)](https://github.com/DrYenyen/How-To-Use-Goldhen-Cheats-and-Patches-On-PS4)               
 # 11. [How to install PKGS and FPKGS](https://github.com/DrYenyen/How-To-Install-PS4-FPKGS)              
