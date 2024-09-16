@@ -1,6 +1,7 @@
 # Guide-Links-For-PS4
 Links to guides for various things related to PS4 exploits and Homebrew  
 # Start here>    
+# 0. [PPPwn Troubleshooting](https://github.com/DrYenyen/PPPwn-Troubleshooting)   
 # 1. [An introduction to Exploits Goldhen PS4 Downgrade PS4 Homebrew for beginners](https://github.com/DrYenyen/An-introduction-to-Exploits-Goldhen-and-PS4-Homebrew-for-beginners?tab=readme-ov-file)  
 # 2. [How to manually update or reinstall PS4 firmware](https://github.com/DrYenyen/PS4-Firware-Update-Guide)     
 # 3. [How to use PPPwn Tinker GUI tool with customizable values for better success rates in PPPwn](https://github.com/DrYenyen/PPPwn-Tinker-GUI)             
